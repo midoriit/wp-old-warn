@@ -1,4 +1,4 @@
-# wp-old-warn
+# Old Post Warning
 古い投稿に警告表示するWordPressプラグイン
 
 * 警告を表示させたい箇所にショートコード[old_warn]を記述
